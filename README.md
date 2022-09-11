@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">Hey, I'm Learning a lot of things. Mastering the Art of Procrastination🧠 Interested in Writing, Music, Art, Mental health, Physics, Blockchain, AI. Basically Everything that's Interesting.</h3>
+
 
 ![](https://github.com/127-0-0-vvk/127-0-0-vvk/blob/main/giphy.gif)
 
