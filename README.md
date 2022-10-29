@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h1>Hi 👋, I'm Vivek</h1>
 
 
 ![](https://github.com/127-0-0-vvk/127-0-0-vvk/blob/main/giphy.gif)
