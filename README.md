@@ -10,9 +10,6 @@
 <p align="left">
 <a href="https://twitter.com/vvk1818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvk1818" height="30" width="40" /></a>
 <a href="https://instagram.com/127.0.0.vvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="127.0.0.vvk" height="30" width="40" /></a>
-    <a href="(https://www.linkedin.com/in/vivek-reddy-vannavada-498983167/)" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
 </p>
 
 
