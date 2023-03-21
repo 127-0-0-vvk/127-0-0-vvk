@@ -20,7 +20,3 @@
 <h3 align="left">Support:</h3>
 <a href='https://ko-fi.com/E1E2EWSY7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=127-0-0-vvk&show_icons=true&locale=en&layout=compact" alt="127-0-0-vvk" /></p>
