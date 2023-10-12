@@ -1,8 +1,9 @@
-<h1>Hi 👋, I'm Vivek</h1>
-<p>A highly skilled engineering professional with a strong background in Software Engineering and DevOps, bringing over 4 years of comprehensive IT experience. I am determined and eager to further my career in the DevOps technologies as I bring forth my excellent communication skills, attentive learner, leadership abilities and outstanding attention to detail.</p>
+<h1>### Hi there 👋, I'm Vivek</h1>
 
 
-
+- 🔭 I'm a **Site Reliability Engineering (SRE)** and **DevOps** experience with over five years at various companies like [Takeda](https://www.takeda.com/), [OPTUM](https://www.optum.com/) and [Softtek](https://www.softtek.com/).
+- ⚡ Besides of My Working Experience I enjoy tinkering with Smurfing New Tech Trends, AI, and software development in general.
+- 💬 You can get in touch with me by email at [vivekvannavada@gmail.com](mailto:vivekvannavada@gmail.com) [LinkedIn](https://www.linkedin.com/in/vvkr/).
 
 
 
