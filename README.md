@@ -1,9 +1,37 @@
-<h1>Hi there 👋, I'm Vivek</h1>
-
-
-- 🔭 I'm a **Site Reliability Engineering (SRE)**, **MLOps** and **DevOps** experience with over five years at various companies like [Takeda](https://www.takeda.com/), [OPTUM](https://www.optum.com/) and [MANAC](https://manacinfotech.com/).
-- ⚡ Besides of My Working Experience I enjoy tinkering with Smurfing New Tech Trends, AI, and software development in general.
-- 💬 You can get in touch with me by email at [vivekvannavada5@gmail.com](mailto:vivekvannavada@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vvkr/).
-
-
-
+<p align="center">
+  </br>
+      <samp>Hi there, thank you for stopping by my profile!</samp>
+  </br>
+  <samp>
+    </br>
+      <img src="assets/wav.gif" width="150px"> 
+    <br/>
+    </br>
+      <img src="assets/vc.svg" width="150px">
+    </br>
+  </br>
+      </br>I am building and working on:<br/>
+      </br>
+           AI, LLM Applications <a href=https://github.com/127-0-0-vvk target="blank">@Vivek</a>
+  <br/>
+  </br>
+      </br>Previously:<br/>
+      </br>
+           Azure Cloud Developer <a href=https://winmgs.com/ target="blank">@MGS</a>
+           // Site Reliability Engineer <a href=https://www.takeda.com/ target="blank">@Takeda</a>
+           // DevOps Engineer <a href=https://www.optum.com/en/ target="blank">@Optum</a>
+           // IT Engineer <a href=https://manacinfotech.com/ target="blank">@MANAC</a>
+  <br/>
+  
+  </samp>
+  <br/>
+  </div>
+    </br>
+      <img src="assets/col.svg" width="150px"> 
+    <br/>
+  <samp></br> Socials & Stuff: <br/></samp>
+  </br>
+      Reach me @: <a href=mailto:vivekvannavada@gmail.com target="blank">vivekannavada@gmail.com</a>
+  <br/>
+  </samp>
+</p>
