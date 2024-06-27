@@ -4,10 +4,10 @@
   </br>
   <samp>
     </br>
-      <img src="assets/wav.gif" width="150px"> 
+      <img src="wav.gif" width="150px"> 
     <br/>
     </br>
-      <img src="assets/vc.svg" width="150px">
+      <img src="vc.svg" width="150px">
     </br>
   </br>
       </br>I am building and working on:<br/>
@@ -27,7 +27,7 @@
   <br/>
   </div>
     </br>
-      <img src="assets/col.svg" width="150px"> 
+      <img src="col.svg" width="150px"> 
     <br/>
   <samp></br> Socials & Stuff: <br/></samp>
   </br>
