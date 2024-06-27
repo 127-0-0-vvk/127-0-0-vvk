@@ -6,9 +6,6 @@
     </br>
       <img src="wav.gif" width="150px"> 
     <br/>
-    </br>
-      <img src="vc.svg" width="150px">
-    </br>
   </br>
       </br>I am building and working on:<br/>
       </br>
