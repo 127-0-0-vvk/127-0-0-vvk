@@ -26,9 +26,9 @@
     </br>
       <img src="col.svg" width="150px"> 
     <br/>
-  <samp></br> Socials & Stuff: <br/></samp>
+
   </br>
       Reach me @: <a href=mailto:vivekvannavada@gmail.com target="blank">vivekannavada@gmail.com</a>
   <br/>
-  </samp>
+
 </p>
