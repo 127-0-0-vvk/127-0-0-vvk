@@ -28,7 +28,7 @@
     <br/>
 
   </br>
-      Reach me @: <a href=mailto:vivekvannavada@gmail.com target="blank">vivekannavada@gmail.com</a>
+      Reach me @: <a href=mailto:vivekvannavada@gmail.com target="blank">vivekvannavada@gmail.com</a>
   <br/>
 
 </p>
