@@ -12,14 +12,7 @@
            AI, LLM Applications <a href=https://github.com/127-0-0-vvk target="blank">@Vivek</a>
   <br/>
   </br>
-      </br>Previously:<br/>
-      </br>
-           Azure Cloud Developer <a href=https://winmgs.com/ target="blank">@MGS</a>
-           // Site Reliability Engineer <a href=https://www.takeda.com/ target="blank">@Takeda</a>
-           // DevOps Engineer <a href=https://www.optum.com/en/ target="blank">@Optum</a>
-           // IT Engineer <a href=https://manacinfotech.com/ target="blank">@MANAC</a>
-  <br/>
-  
+
   </samp>
   <br/>
   </div>
